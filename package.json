@@ -11,6 +11,7 @@
   "author": "jinjupeng",
   "license": "MIT",
   "devDependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@intervolga/optimize-cssnano-plugin": "^1.0.6",
     "autoprefixer": "^9.6.0",
     "cache-loader": "^3.0.1",
